@@ -2,7 +2,9 @@
   
 # 👋 Hey there! I'm ThrownLemon
 
-### Welcome to my GitHub profile!
+### Developer | Builder | Creator
+
+![Profile Views](https://komarev.com/ghpvc/?username=ThrownLemon&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -16,6 +18,7 @@ I'm a developer passionate about building amazing things with code!
 - 🌱 Always learning and growing
 - 💬 Ask me about anything tech-related
 - ⚡ Fun fact: I turn coffee into code
+- 📍 Based in [Your Location]
 
 ---
 
@@ -23,42 +26,51 @@ I'm a developer passionate about building amazing things with code!
 
 <div align="center">
 
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
-  
-![ThrownLemon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThrownLemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ThrownLemon&theme=tokyonight&hide_border=true)
+Check out my repositories below to see what I've been working on!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThrownLemon&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Activity
-
-<div align="center">
-  
-![ThrownLemon's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThrownLemon&theme=tokyo-night&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/ThrownLemon?style=social)](https://github.com/ThrownLemon)
+[![GitHub stars](https://img.shields.io/github/stars/ThrownLemon?style=social)](https://github.com/ThrownLemon)
 
 </div>
 
 ---
 
-## 📫 Connect with Me
+## 🎯 Current Focus
+
+- 🔨 Building cool projects
+- 📚 Learning new technologies
+- 🤝 Open to collaborating on interesting projects
+- 💡 Always exploring new ideas
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -73,8 +85,8 @@ I'm a developer passionate about building amazing things with code!
 
 <div align="center">
   
-### 💡 Show some ❤️ by starring some repositories!
+### ⭐ Show some love by starring repositories you find interesting!
 
-![Profile Views](https://komarev.com/ghpvc/?username=ThrownLemon&color=blueviolet&style=flat-square)
+**Thanks for stopping by!** 😊
 
 </div>
