@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+👋+I'm+ThrownLemon;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</div>
+  
+# 👋 Hey there! I'm ThrownLemon
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThrownLemon&style=for-the-badge&color=blueviolet" alt="Profile views" />
+### Welcome to my GitHub profile!
+
 </div>
 
 ---
@@ -37,20 +37,23 @@ I'm a developer passionate about building amazing things with code!
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThrownLemon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThrownLemon&theme=radical&hide_border=true&background=0D1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" alt="GitHub Streak" height="170" />
-</div>
+  
+![ThrownLemon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThrownLemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThrownLemon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7" alt="Top Languages" />
+![GitHub Streak](https://streak-stats.demolab.com?user=ThrownLemon&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThrownLemon&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThrownLemon&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  
+![ThrownLemon's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThrownLemon&theme=tokyo-night&hide_border=true)
+
 </div>
 
 ---
@@ -69,11 +72,9 @@ I'm a developer passionate about building amazing things with code!
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
   
-### Show some ❤️ by starring some repositories!
+### 💡 Show some ❤️ by starring some repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=ThrownLemon&color=blueviolet&style=flat-square)
 
 </div>
