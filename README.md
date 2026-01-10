@@ -1,92 +1,187 @@
 <div align="center">
-  
-# 👋 Hey there! I'm ThrownLemon
 
-### Developer | Builder | Creator
+<!-- You can add a custom banner here once generated -->
+<!-- <img src="./assets/banner.png" alt="Banner" width="100%" /> -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=ThrownLemon&color=blueviolet&style=flat-square)
+# 🍋 ThrownLemon
+
+### `< Developer />` • `{ Builder }` • `[ Creator ]`
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=ThrownLemon&color=yellow&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ThrownLemon?style=for-the-badge&color=yellow" alt="Followers" />
+</div>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║  "Code is like humor. When you have to explain it, it's bad."   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-I'm a developer passionate about building amazing things with code!
+<br/>
 
-- 🔭 Currently working on exciting projects
-- 🌱 Always learning and growing
-- 💬 Ask me about anything tech-related
-- ⚡ Fun fact: I turn coffee into code
-- 📍 Based in [Your Location]
+## 🎯 About Me
 
----
+```typescript
+const thrownLemon = {
+    pronouns: "your-pronouns",
+    location: "🌍 Your Location",
+    currentFocus: "Building awesome stuff",
+    funFact: "I debug with console.log()",
+    askMeAbout: ["web dev", "open source", "tech", "coffee"],
+    technologies: {
+        frontEnd: ["React", "TypeScript", "HTML5", "CSS3"],
+        backEnd: ["Node.js", "Express", "Python"],
+        tools: ["Git", "Docker", "VS Code"],
+        learning: ["Next.js", "GraphQL", "Rust"]
+    },
+    currentlyLearning: "Always something new! 🚀"
+};
+```
 
-## 🛠️ Tech Stack
+<br/>
+
+## 🚀 Tech Arsenal
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+<tr>
+<td align="center" width="33%">
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+**Languages**
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
 
-</div>
+</td>
+<td align="center" width="33%">
 
----
+**Frameworks**
 
-## 📊 GitHub Overview
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
 
-<div align="center">
+</td>
+<td align="center" width="33%">
 
-Check out my repositories below to see what I've been working on!
+**Tools**
 
-[![GitHub followers](https://img.shields.io/github/followers/ThrownLemon?style=social)](https://github.com/ThrownLemon)
-[![GitHub stars](https://img.shields.io/github/stars/ThrownLemon?style=social)](https://github.com/ThrownLemon)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 🎯 Current Focus
-
-- 🔨 Building cool projects
-- 📚 Learning new technologies
-- 🤝 Open to collaborating on interesting projects
-- 💡 Always exploring new ideas
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ThrownLemon)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
+## 📊 Contribution Snake
 
 <div align="center">
   
-### ⭐ Show some love by starring repositories you find interesting!
+![Snake animation](https://raw.githubusercontent.com/ThrownLemon/ThrownLemon/output/github-contribution-grid-snake.svg)
 
-**Thanks for stopping by!** 😊
+</div>
+
+<br/>
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Project One
+A cool project that does amazing things
+- ⚡ Fast & Efficient
+- 🎨 Beautiful UI
+- 🔒 Secure
+
+**Tech:** React, Node.js
+
+</td>
+<td width="50%">
+
+### 💡 Project Two  
+Another awesome project description
+- 🌐 Scalable
+- 📱 Responsive
+- ♿ Accessible
+
+**Tech:** TypeScript, Express
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+1. 🎉 Check out my recent contributions!
+2. 💪 Building in public
+3. 🌱 Learning and growing every day
+<!--END_SECTION:activity-->
+
+</div>
+
+<br/>
+
+## 🎵 Vibe Check
+
+<div align="center">
+
+```
+♪┏(・o･)┛♪┗ ( ･o･) ┓♪
+Currently jamming to:
+[Your favorite music/playlist]
+```
+
+</div>
+
+<br/>
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ThrownLemon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThrownLemon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+---
+
+### 🌟 Star some repos if you find them interesting!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
